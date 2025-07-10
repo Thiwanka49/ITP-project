@@ -2,7 +2,7 @@ I🏋️‍♂️ Gym Management System
 A modern web application for managing gym members, subscriptions, classes, and suppliers, built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 🌐 Website Name
-Deezer Gym Management
+Fitplex Gym Management
 
 🛠️ Built With
 Languages:
