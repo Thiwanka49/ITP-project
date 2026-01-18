@@ -1,0 +1,101 @@
+{
+  "suppliers": [
+    {
+      "name": "Iron Works Ltd",
+      "email": "sales@ironworks.com",
+      "phone": "+1 555-0102",
+      "address": "456 Gym Street, NY",
+      "_id": "s1",
+      "createdAt": "2026-01-17T13:13:38.119Z"
+    },
+    {
+      "name": "CardioMax Supply",
+      "email": "info@cardiomax.com",
+      "phone": "+1 555-0103",
+      "address": "789 Health Blvd, TX",
+      "_id": "s2",
+      "createdAt": "2026-01-17T13:13:38.119Z"
+    },
+    {
+      "name": "Apex",
+      "email": "Apex@gmail.com",
+      "phone": "+94719064144",
+      "address": "Colomno",
+      "_id": "1768655700946",
+      "createdAt": "2026-01-17T13:15:00.946Z"
+    },
+    {
+      "name": "Apex Fitness",
+      "email": "apex@fit.com",
+      "phone": "123456789",
+      "address": "100 Apex Way",
+      "_id": "1768656757371",
+      "createdAt": "2026-01-17T13:32:37.371Z"
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Olympic Barbell Set",
+      "category": "Free Weights",
+      "supplierId": "s1",
+      "quantity": 10,
+      "price": 450,
+      "status": "available",
+      "_id": "e2",
+      "purchaseDate": "2026-01-17T13:13:38.119Z"
+    },
+    {
+      "name": "Cable Crossover Machine",
+      "category": "Strength",
+      "supplierId": "s0",
+      "quantity": 2,
+      "price": 5200,
+      "status": "maintenance",
+      "_id": "e3",
+      "purchaseDate": "2026-01-17T13:13:38.119Z"
+    },
+    {
+      "name": "Power Rack Elite",
+      "category": "Strength",
+      "supplierId": "s1",
+      "quantity": 3,
+      "price": 2800,
+      "status": "maintenance",
+      "_id": "e5",
+      "purchaseDate": "2026-01-17T13:13:38.120Z",
+      "id": "e5"
+    },
+    {
+      "name": "Dumbbell Set (5-50 lbs)",
+      "category": "Free Weights",
+      "supplierId": "s1",
+      "quantity": 0,
+      "price": 1800,
+      "status": "maintenance",
+      "_id": "e6",
+      "purchaseDate": "2026-01-17T13:13:38.120Z",
+      "id": "e6"
+    },
+    {
+      "name": "Apex Bench",
+      "category": "Strength",
+      "supplierId": "1768656757371",
+      "quantity": 1,
+      "price": 200,
+      "status": "available",
+      "purchaseDate": "2026-01-17T13:32:37.396Z",
+      "_id": "1768656757403"
+    },
+    {
+      "name": "Apex Bench",
+      "category": "Cardio",
+      "supplierId": "1768656757371",
+      "quantity": 1,
+      "price": 170,
+      "status": "available",
+      "purchaseDate": "2026-01-17T13:52:45.347Z",
+      "_id": "1768657965385",
+      "id": "1768657965385"
+    }
+  ]
+}
