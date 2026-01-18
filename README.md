@@ -339,16 +339,9 @@ For support, email support@fitplex.dev or open an issue on GitHub.
 
 ## Acknowledgments
 
-- Built with [Lovable](https://lovable.dev)
 - UI Components from [shadcn/ui](https://ui.shadcn.com)
 - Icons from [Lucide React](https://lucide.dev)
 - Charts from [Recharts](https://recharts.org)
-
-## Contact
-
-**Project Maintainer**: Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ---
 
